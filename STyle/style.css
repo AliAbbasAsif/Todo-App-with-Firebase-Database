@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(34, 34, 34, 0.849) !important;
+}
+.ccus{
+    margin: 0 auto;
+    width: 60%;
+    background-color: #222 !important;
+    overflow-y: scroll !important;
+}
